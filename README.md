@@ -6,3 +6,4 @@ I am currently a third year student in Honours Chemistry at Mcmaster University
 # I LOVE SCIENCE 
 *I enjoy fashion designing and creating new clothes in my spare time*
 **I Also like reading manga in my spare time** 
+###### I find Polymer Chemistry the most fascinatingg :) 
